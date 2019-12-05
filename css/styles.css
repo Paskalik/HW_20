@@ -1,0 +1,46 @@
+.row {
+	width: 90vw;
+}
+body {
+	padding-top: 82px;
+	padding-bottom: 50px;
+}
+li>img {
+	height: 10vh;
+}
+li>i,button>i {
+	min-width: 1vw;
+}
+i {
+	min-width: 3vw;
+}
+.fas {
+	line-height: 1.7;
+}
+footer img {
+	height: 12vh;
+}
+.avatar {
+	max-width: 120px;
+    width: 100%;
+    margin: 0 auto;
+    -webkit-transform: translate3d(0,-50%,0);
+    -moz-transform: translate3d(0,-50%,0);
+    transform: translate3d(0,-50%,0);
+}
+.my-card {
+	margin-top: 15vh;
+}
+figure {
+	width: 0.7rem;
+	height: 0.7rem;
+	border-right: 2px solid #e6e6e6;
+	border-top: 2px solid #e6e6e6;
+	background-color: white;
+}
+.left {
+	position: relative;
+	top: 11px;
+	transform: rotate(225deg);
+	margin-left: -7px;
+}
