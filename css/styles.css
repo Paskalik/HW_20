@@ -17,10 +17,6 @@ i {
 .fas {
 	line-height: 1.7;
 }
-option {
-	font-weight: normal;
-	font-family: Arial;
-}
 .mySelect {
 	display: block;
 	height: calc(1.5em + .75rem + 2px);
