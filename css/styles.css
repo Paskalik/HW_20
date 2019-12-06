@@ -17,6 +17,19 @@ i {
 .fas {
 	line-height: 1.7;
 }
+option {
+	font-weight: normal;
+	font-family: Arial;
+}
+.mySelect {
+	display: block;
+	height: calc(1.5em + .75rem + 2px);
+	padding: .375rem .75rem;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
 footer img {
 	height: 12vh;
 }
